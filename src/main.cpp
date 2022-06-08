@@ -16,5 +16,8 @@ int main()
     Book file1(targetFile);
     file1.read();
 
+    cout << "\n-----------------------\nPRESS ENTER TO CLOSE" << endl;
+    cin.get();
+
     return 0;
 }
