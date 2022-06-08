@@ -1,5 +1,5 @@
 # Description
-Program ini bertujuan untuk membaca seluruh isi (text) file yang bertipe .txt
+Program ini bertujuan untuk membaca seluruh isi (text) file yang bertipe ".txt"
 
 # HOW TO WORK
 1. buka file "READ.txt"
